@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Файлы среды разработки
+.idea/
+
+# Файлы базы данных
+*.db
+*.sqlite3
+
+# Файлы конфигурации
+.env
+
+# Временные файлы
+*.log
+~$*.xlsx
+*.txt
+
+# Виртуальное окружение
+venv/
